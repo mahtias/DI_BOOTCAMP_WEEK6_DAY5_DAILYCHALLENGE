@@ -7,10 +7,7 @@ package com.daylichallenge.guessthenumber;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author konate-mk
- */
+
 public class GuessTheNumber {
 
   public static void main(String[] args) {
@@ -46,7 +43,4 @@ public class GuessTheNumber {
     }
   }
 }
-/**
- *
- * @author konate-mk
- */
+
